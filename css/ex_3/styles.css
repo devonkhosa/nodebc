@@ -1,0 +1,16 @@
+h1 {
+    font-size: 4em;
+    color: #0000FF;
+}
+p {
+    font-size: 2em;
+    color: #808080;
+}
+.home {
+    font-size: 2em;
+    color: #FFC1CC;
+}
+.news {
+    font-size: 2em;
+    color: #007F00;
+}
