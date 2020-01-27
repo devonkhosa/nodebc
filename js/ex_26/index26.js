@@ -1,0 +1,14 @@
+let cityName = 'Winnipeg';
+let cityAge = 146;
+let tropical = false;
+let ocean = false;
+let season = undefined;
+let home = false;
+let distance = null;
+console.log('City Name: ', typeof cityName);
+console.log('City Age: ', typeof cityAge);
+console.log('Tropical Climate: ', typeof tropical);
+console.log('Near an Ocean: ', typeof ocean);
+console.log('Season: ', typeof season);
+console.log('Home: ', typeof home);
+console.log('Distance: ', typeof distance);
