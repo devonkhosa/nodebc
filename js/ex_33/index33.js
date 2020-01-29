@@ -1,0 +1,10 @@
+let userCount = 100;
+userCount +=5;
+console.log(`User count: ${userCount}`);
+userCount -=5;
+console.log(`User count: ${userCount}`);
+userCount *=2;
+console.log(`User count: ${userCount}`);
+let menCount = userCount /2;
+let womenCount = userCount /2;
+console.log(`User count: ${userCount}, Men: ${menCount}, Women: ${womenCount}`);
