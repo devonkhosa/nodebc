@@ -1,2 +1,3 @@
 <h1>ComIT Node.js</h1>
-<p>Welcome to my github!</p>
+Welcome to my ComIT github repository.
+Any of the exercises that I complete throughout the course will be added here.
